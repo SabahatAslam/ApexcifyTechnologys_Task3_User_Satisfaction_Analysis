@@ -19,7 +19,7 @@ You can view the ipynb file here in colab:
 ### 📝Customized Dataset
 
 The dataset contains **150 rows and 6 columns**. The columns give us information about users's id, age,	gender,	product category,	purchase amount	and satisfaction levels.
-The customer satisfaction survey 🧪 has five levels, namely; 😍 Very Satisfied, 🙂 Satisfied, 😐 Neutral, 🙁 Dissatisfied, 😡 Very Dissatisfied
+The customer satisfaction survey 🧪 has five levels, namely; 😍 Very Satisfied, 🙂 Satisfied, 😐 Neutral, 🙁 Dissatisfied, 😡 Very Dissatisfied.
 
 ---
 
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 ---
 - 📓 Jupyter Notebook
 
-* Open `Monthly_Sales_Analysis.ipynb` or `Monthly_Sales_Analysis.py`  in VS Code or Jupyter
+* Open `User_Satisfaction_Analysis.ipynb` or `user_satisfaction_analysis.py`  in VS Code or Jupyter
 * OR click the **Colab badge above**
 ---
 
@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 * Notebook -> Output inside cells
 * Script -> Output in terminal
-* HTML -> Open `Monthly_Sales_Analysis.html` in browser
+* HTML -> Open `User_Satisfaction_Analysis.html` in browser
   
 ---
 ## 🎯 Learning Outcomes

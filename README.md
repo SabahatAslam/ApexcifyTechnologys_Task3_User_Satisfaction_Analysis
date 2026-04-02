@@ -19,12 +19,7 @@ You can view the ipynb file here in colab:
 ### 📝Customized Dataset
 
 The dataset contains **150 rows and 6 columns**. The columns give us information about users's id, age,	gender,	product category,	purchase amount	and satisfaction levels.
-The customer satisfaction survey 🧪 has five levels, namely:
-😍 Very Satisfied
-🙂 Satisfied
-😐 Neutral
-🙁 Dissatisfied
-😡 Very Dissatisfied
+The customer satisfaction survey 🧪 has five levels, namely; 😍 Very Satisfied, 🙂 Satisfied, 😐 Neutral, 🙁 Dissatisfied, 😡 Very Dissatisfied
 
 ---
 
@@ -38,6 +33,7 @@ Make sure you have **Python 3.10+** and the following libraries installed:
 - `seaborn`
 
 *(See `requirements.txt` for the complete list)*
+
 ---
 
 ### 🔑 Key Concepts
@@ -74,7 +70,7 @@ The following important data analysis concepts are used in this project:
 ### ▶️ Project Execution Steps
 -  Clone the repository to get the required files.
 ```bash
-git clone https://github.com/SabahatAslam/ApexcifyTechnologys_Task2_Monthly_Sales_Analysis.git
+git clone https://github.com/SabahatAslam/ApexcifyTechnologys_Task3_User_Satisfaction_Analysis.git
 ```
 - First navigate to project folder in command prompt and install the required libraries by writing the following command.
 ```bash

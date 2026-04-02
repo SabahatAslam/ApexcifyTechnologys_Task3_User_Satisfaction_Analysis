@@ -12,9 +12,7 @@
 - `📁 Dataset (.csv`)
 
 You can view the ipynb file here in colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/github/SabahatAslam/ApexcifyTechnologys_Task3_User_Satisfaction_Analysis/blob/main/User_Satisfaction_Analysis.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SabahatAslam/ApexcifyTechnologys_Task3_User_Satisfaction_Analysis/blob/main/Students_Grade_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SabahatAslam/ApexcifyTechnologys_Task3_User_Satisfaction_Analysis/blob/main/User_Satisfaction_Analysis.ipynb)
 
 ---
 

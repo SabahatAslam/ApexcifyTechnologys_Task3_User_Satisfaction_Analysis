@@ -1,0 +1,151 @@
+user_id,age,gender,product_category,purchase_amount,satisfaction
+1,24,Male,Electronics,145.50,Very Satisfied
+2,31,Female,Clothing,78.20,Satisfied
+3,22,Male,Groceries,34.10,Neutral
+4,45,Female,Electronics,210.00,Dissatisfied
+5,29,Male,Clothing,56.75,Very Dissatisfied
+6,38,Female,Groceries,89.40,Satisfied
+7,27,Male,Electronics,132.60,Very Satisfied
+8,33,Female,Clothing,67.80,Neutral
+9,41,Male,Groceries,48.30,Dissatisfied
+10,36,Female,Electronics,199.99,Very Satisfied
+11,23,Male,Clothing,49.50,Satisfied
+12,52,Female,Groceries,95.00,Neutral
+13,28,Male,Electronics,170.20,Very Satisfied
+14,34,Female,Clothing,88.60,Satisfied
+15,40,Male,Groceries,52.70,Dissatisfied
+16,26,Female,Electronics,143.80,Very Satisfied
+17,37,Male,Clothing,61.30,Neutral
+18,44,Female,Groceries,76.90,Satisfied
+19,30,Male,Electronics,155.40,Very Satisfied
+20,21,Female,Clothing,39.20,Very Dissatisfied
+21,35,Male,Groceries,62.10,Neutral
+22,48,Female,Electronics,220.00,Very Satisfied
+23,32,Male,Clothing,72.50,Satisfied
+24,27,Female,Groceries,44.00,Dissatisfied
+25,39,Male,Electronics,180.90,Very Satisfied
+26,25,Female,Clothing,58.60,Neutral
+27,42,Male,Groceries,70.30,Satisfied
+28,31,Female,Electronics,165.75,Very Satisfied
+29,36,Male,Clothing,83.40,Dissatisfied
+30,28,Female,Groceries,47.25,Neutral
+31,50,Male,Electronics,240.10,Very Satisfied
+32,29,Female,Clothing,64.90,Satisfied
+33,33,Male,Groceries,53.60,Neutral
+34,41,Female,Electronics,210.45,Very Satisfied
+35,26,Male,Clothing,59.80,Very Dissatisfied
+36,38,Female,Groceries,88.30,Satisfied
+37,24,Male,Electronics,140.60,Very Satisfied
+38,45,Female,Clothing,92.00,Neutral
+39,34,Male,Groceries,61.10,Dissatisfied
+40,30,Female,Electronics,175.20,Very Satisfied
+41,27,Male,Clothing,55.30,Satisfied
+42,43,Female,Groceries,73.50,Neutral
+43,36,Male,Electronics,160.00,Very Satisfied
+44,22,Female,Clothing,42.60,Very Dissatisfied
+45,49,Male,Groceries,90.20,Satisfied
+46,31,Female,Electronics,185.70,Very Satisfied
+47,35,Male,Clothing,66.40,Neutral
+48,28,Female,Groceries,49.90,Dissatisfied
+49,40,Male,Electronics,200.30,Very Satisfied
+50,26,Female,Clothing,57.20,Satisfied
+51,37,Male,Groceries,68.10,Neutral
+52,44,Female,Electronics,215.60,Very Satisfied
+53,29,Male,Clothing,63.50,Dissatisfied
+54,32,Female,Groceries,54.00,Neutral
+55,41,Male,Electronics,195.80,Very Satisfied
+56,23,Female,Clothing,45.70,Very Dissatisfied
+57,38,Male,Groceries,75.90,Satisfied
+58,34,Female,Electronics,168.40,Very Satisfied
+59,27,Male,Clothing,58.90,Neutral
+60,46,Female,Groceries,82.30,Dissatisfied
+61,30,Male,Electronics,178.20,Very Satisfied
+62,25,Female,Clothing,52.10,Satisfied
+63,39,Male,Groceries,66.50,Neutral
+64,48,Female,Electronics,225.00,Very Satisfied
+65,33,Male,Clothing,70.40,Dissatisfied
+66,28,Female,Groceries,48.80,Neutral
+67,42,Male,Electronics,205.60,Very Satisfied
+68,36,Female,Clothing,85.10,Satisfied
+69,31,Male,Groceries,59.20,Neutral
+70,45,Female,Electronics,230.30,Very Satisfied
+71,26,Male,Clothing,60.00,Very Dissatisfied
+72,38,Female,Groceries,77.40,Satisfied
+73,24,Male,Electronics,150.20,Very Satisfied
+74,35,Female,Clothing,68.30,Neutral
+75,41,Male,Groceries,62.70,Dissatisfied
+76,29,Female,Electronics,172.80,Very Satisfied
+77,33,Male,Clothing,73.10,Satisfied
+78,47,Female,Groceries,84.50,Neutral
+79,28,Male,Electronics,160.90,Very Satisfied
+80,37,Female,Clothing,79.60,Dissatisfied
+81,30,Male,Groceries,55.40,Neutral
+82,44,Female,Electronics,210.90,Very Satisfied
+83,25,Male,Clothing,51.80,Satisfied
+84,39,Female,Groceries,69.30,Neutral
+85,46,Male,Electronics,220.10,Very Satisfied
+86,32,Female,Clothing,74.20,Very Dissatisfied
+87,27,Male,Groceries,50.60,Satisfied
+88,41,Female,Electronics,198.40,Very Satisfied
+89,35,Male,Clothing,65.70,Neutral
+90,29,Female,Groceries,58.10,Dissatisfied
+91,48,Male,Electronics,235.60,Very Satisfied
+92,31,Female,Clothing,69.80,Satisfied
+93,34,Male,Groceries,60.90,Neutral
+94,42,Female,Electronics,205.10,Very Satisfied
+95,28,Male,Clothing,62.50,Dissatisfied
+96,37,Female,Groceries,71.60,Neutral
+97,30,Male,Electronics,180.00,Very Satisfied
+98,45,Female,Clothing,88.40,Satisfied
+99,26,Male,Groceries,52.30,Neutral
+100,39,Female,Electronics,190.70,Very Satisfied
+101,33,Male,Clothing,67.20,Very Dissatisfied
+102,41,Female,Groceries,74.80,Satisfied
+103,29,Male,Electronics,165.30,Very Satisfied
+104,36,Female,Clothing,80.60,Neutral
+105,47,Male,Groceries,86.20,Dissatisfied
+106,25,Female,Electronics,150.50,Very Satisfied
+107,38,Male,Clothing,71.40,Satisfied
+108,32,Female,Groceries,57.00,Neutral
+109,44,Male,Electronics,210.80,Very Satisfied
+110,27,Female,Clothing,59.30,Dissatisfied
+111,35,Male,Groceries,63.20,Neutral
+112,49,Female,Electronics,240.00,Very Satisfied
+113,31,Male,Clothing,66.70,Satisfied
+114,28,Female,Groceries,48.90,Neutral
+115,43,Male,Electronics,220.20,Very Satisfied
+116,37,Female,Clothing,82.10,Very Dissatisfied
+117,26,Male,Groceries,54.60,Satisfied
+118,40,Female,Electronics,200.50,Very Satisfied
+119,34,Male,Clothing,68.90,Neutral
+120,45,Female,Groceries,79.40,Dissatisfied
+121,30,Male,Electronics,175.60,Very Satisfied
+122,24,Female,Clothing,50.20,Satisfied
+123,39,Male,Groceries,65.80,Neutral
+124,48,Female,Electronics,230.90,Very Satisfied
+125,33,Male,Clothing,72.60,Dissatisfied
+126,29,Female,Groceries,53.40,Neutral
+127,41,Male,Electronics,210.30,Very Satisfied
+128,36,Female,Clothing,81.50,Satisfied
+129,27,Male,Groceries,49.70,Neutral
+130,44,Female,Electronics,205.90,Very Satisfied
+131,35,Male,Clothing,64.80,Very Dissatisfied
+132,28,Female,Groceries,58.60,Satisfied
+133,42,Male,Electronics,215.70,Very Satisfied
+134,31,Female,Clothing,70.10,Neutral
+135,38,Male,Groceries,69.00,Dissatisfied
+136,47,Female,Electronics,235.40,Very Satisfied
+137,25,Male,Clothing,55.90,Satisfied
+138,34,Female,Groceries,61.70,Neutral
+139,40,Male,Electronics,198.90,Very Satisfied
+140,29,Female,Clothing,60.40,Dissatisfied
+141,37,Male,Groceries,72.50,Neutral
+142,45,Female,Electronics,220.60,Very Satisfied
+143,32,Male,Clothing,68.00,Satisfied
+144,28,Female,Groceries,50.80,Neutral
+145,41,Male,Electronics,210.10,Very Satisfied
+146,36,Female,Clothing,83.70,Very Dissatisfied
+147,27,Male,Groceries,47.90,Satisfied
+148,43,Female,Electronics,205.40,Very Satisfied
+149,35,Male,Clothing,65.10,Neutral
+150,30,Female,Groceries,59.60,Dissatisfied
